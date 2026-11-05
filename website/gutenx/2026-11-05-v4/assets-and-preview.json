@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-05",
+  "preview": {
+    "id": 23830,
+    "url": "https://ihmahmoodi.com/gutenx-preview-20261105/",
+    "robots": "noindex,nofollow",
+    "canonical": "https://ihmahmoodi.com/gutenx-wordpress-template/"
+  },
+  "production": {
+    "id": 22990,
+    "unchanged": true,
+    "backup": "before.blocks.html"
+  },
+  "tracking": {
+    "github": "https://github.com/iHMahmoodi/iHMahmoodi.github.io/issues/2",
+    "ticktick": "https://ticktick.com/webapp/#p/6aa5669a8f0815166f6b04bf/tasks/6aec75c58f08b205a8c165b5"
+  },
+  "icons": [
+    {
+      "role": "blocks",
+      "id": 23831,
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-Glass-Blocks-20261105.webp",
+      "bytes": 76250,
+      "purpose": "Original imagegen artwork, transparent soft ceramic/smoky glass with orange accents; coordinated with NotionX project icon."
+    },
+    {
+      "role": "design",
+      "id": 23832,
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-Glass-Design-20261105.webp",
+      "bytes": 64678,
+      "purpose": "Original imagegen artwork, transparent soft ceramic/smoky glass with orange accents; coordinated with NotionX project icon."
+    },
+    {
+      "role": "commerce",
+      "id": 23833,
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-Glass-Commerce-20261105.webp",
+      "bytes": 54966,
+      "purpose": "Original imagegen artwork, transparent soft ceramic/smoky glass with orange accents; coordinated with NotionX project icon."
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 23836,
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-—-نمای-تازه-LearnUIX-—-2026-11-05.webp",
+      "site": "https://learnuix.com/",
+      "verified": true
+    },
+    {
+      "id": 23839,
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-iHMahmoodi-Current-20261105-v2.webp",
+      "site": "https://ihmahmoodi.com/",
+      "verified": true
+    }
+  ],
+  "illustrations": "All capability demonstrations are editable native blocks with Persian text. They are labelled illustrative examples; they are not claimed as product screenshots.",
+  "builder": "WordPress Core blocks only in v4 page content; Blocksy native per-page settings disable inherited header/footer on this preview. No Custom HTML, style tags, custom CSS or global setting mutation.",
+  "knownLimitations": [
+    "Inherited keyboard focus outline is not visible on Details summary despite keyboard operation working. Resolve through native styling before launch.",
+    "Checkout, delivery, licence packaging and tracking not completed by this preview task.",
+    "YarGasht live demo excluded after critical error observed."
+  ]
+}
