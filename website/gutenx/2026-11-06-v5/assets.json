@@ -1,0 +1,486 @@
+{
+  "sources": {
+    "hero1": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2022/06/home-hero-demo-1.jpg",
+      "path": "/tmp/gx-assets/hero1.jpg",
+      "size": [
+        960,
+        1600
+      ],
+      "upload_path": "/tmp/gx-assets/hero1.webp",
+      "upload_size": [
+        840,
+        1400
+      ],
+      "bytes": 82198
+    },
+    "hero2": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2022/06/home-hero-demo-3-c.jpg",
+      "path": "/tmp/gx-assets/hero2.jpg",
+      "size": [
+        820,
+        1380
+      ],
+      "upload_path": "/tmp/gx-assets/hero2.webp",
+      "upload_size": [
+        820,
+        1380
+      ],
+      "bytes": 35948
+    },
+    "hero3": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2022/06/home-hero-demo-4.jpg",
+      "path": "/tmp/gx-assets/hero3.jpg",
+      "size": [
+        696,
+        1080
+      ],
+      "upload_path": "/tmp/gx-assets/hero3.webp",
+      "upload_size": [
+        696,
+        1080
+      ],
+      "bytes": 36262
+    },
+    "header": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2021/06/header-scene.png",
+      "path": "/tmp/gx-assets/header.png",
+      "size": [
+        2616,
+        1584
+      ],
+      "upload_path": "/tmp/gx-assets/header.webp",
+      "upload_size": [
+        1800,
+        1090
+      ],
+      "bytes": 111528
+    },
+    "mega": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2021/06/advanced-menu.jpg",
+      "path": "/tmp/gx-assets/mega.jpg",
+      "size": [
+        1760,
+        1080
+      ],
+      "upload_path": "/tmp/gx-assets/mega.webp",
+      "upload_size": [
+        1760,
+        1080
+      ],
+      "bytes": 95168
+    },
+    "hooks": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2021/06/hooks-single.jpg",
+      "path": "/tmp/gx-assets/hooks.jpg",
+      "size": [
+        1260,
+        1220
+      ],
+      "upload_path": "/tmp/gx-assets/hooks.webp",
+      "upload_size": [
+        1260,
+        1220
+      ],
+      "bytes": 99774
+    },
+    "cart-hook": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2021/06/hooks-cart.jpg",
+      "path": "/tmp/gx-assets/cart-hook.jpg",
+      "size": [
+        1260,
+        950
+      ],
+      "upload_path": "/tmp/gx-assets/cart-hook.webp",
+      "upload_size": [
+        1260,
+        950
+      ],
+      "bytes": 32204
+    },
+    "fonts": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2021/06/fonts-2.jpg",
+      "path": "/tmp/gx-assets/fonts.jpg",
+      "size": [
+        566,
+        860
+      ],
+      "upload_path": "/tmp/gx-assets/fonts.webp",
+      "upload_size": [
+        566,
+        860
+      ],
+      "bytes": 18688
+    },
+    "customizer": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2021/06/macbook@2x.png",
+      "path": "/tmp/gx-assets/customizer.png",
+      "size": [
+        2160,
+        1542
+      ],
+      "upload_path": "/tmp/gx-assets/customizer.webp",
+      "upload_size": [
+        1800,
+        1285
+      ],
+      "bytes": 88292
+    },
+    "filters": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2024/12/product-filters-image.jpg",
+      "path": "/tmp/gx-assets/filters.jpg",
+      "size": [
+        1160,
+        724
+      ],
+      "upload_path": "/tmp/gx-assets/filters.webp",
+      "upload_size": [
+        1160,
+        724
+      ],
+      "bytes": 28404
+    },
+    "swatches": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2024/12/swatches-image-1.jpg",
+      "path": "/tmp/gx-assets/swatches.jpg",
+      "size": [
+        440,
+        654
+      ],
+      "upload_path": "/tmp/gx-assets/swatches.webp",
+      "upload_size": [
+        440,
+        654
+      ],
+      "bytes": 9068
+    },
+    "wishlist": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2024/12/wishlist-image.jpg",
+      "path": "/tmp/gx-assets/wishlist.jpg",
+      "size": [
+        640,
+        680
+      ],
+      "upload_path": "/tmp/gx-assets/wishlist.webp",
+      "upload_size": [
+        640,
+        680
+      ],
+      "bytes": 23782
+    },
+    "quick": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2024/12/quick-view-image.jpg",
+      "path": "/tmp/gx-assets/quick.jpg",
+      "size": [
+        640,
+        420
+      ],
+      "upload_path": "/tmp/gx-assets/quick.webp",
+      "upload_size": [
+        640,
+        420
+      ],
+      "bytes": 13590
+    },
+    "reviews": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2024/12/advanced-reviews.jpg",
+      "path": "/tmp/gx-assets/reviews.jpg",
+      "size": [
+        548,
+        623
+      ],
+      "upload_path": "/tmp/gx-assets/reviews.webp",
+      "upload_size": [
+        548,
+        623
+      ],
+      "bytes": 16152
+    },
+    "mini-cart": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2025/04/offcanvas-mini-cart.jpg",
+      "path": "/tmp/gx-assets/mini-cart.jpg",
+      "size": [
+        426,
+        817
+      ],
+      "upload_path": "/tmp/gx-assets/mini-cart.webp",
+      "upload_size": [
+        426,
+        817
+      ],
+      "bytes": 14616
+    },
+    "mobile": {
+      "url": "https://creativethemes.com/blocksy/wp-content/uploads/2025/04/mobile-optimized-image-1.png",
+      "path": "/tmp/gx-assets/mobile.png",
+      "size": [
+        460,
+        872
+      ],
+      "upload_path": "/tmp/gx-assets/mobile.webp",
+      "upload_size": [
+        460,
+        872
+      ],
+      "bytes": 17006
+    }
+  },
+  "media": {
+    "hero1": {
+      "id": 23851,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-hero1.webp",
+      "bytes": 82198,
+      "sha256": "1ab48080bf67d16d1e0bf086be63248a19d7903970a46ed8b06a3beae47b825f",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 840,
+      "height": 1400,
+      "title": "GutenX-v5-hero1",
+      "alt_text": "نمایش رسمی Blocksy — hero1",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2022/06/home-hero-demo-1.jpg"
+    },
+    "hero2": {
+      "id": 23852,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-hero2.webp",
+      "bytes": 35948,
+      "sha256": "f9a026ef5bb33793e15fd02524ac1e85b8ad72dcce093ff48e14ac7d920c04ed",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 820,
+      "height": 1380,
+      "title": "GutenX-v5-hero2",
+      "alt_text": "نمایش رسمی Blocksy — hero2",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2022/06/home-hero-demo-3-c.jpg"
+    },
+    "hero3": {
+      "id": 23853,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-hero3.webp",
+      "bytes": 36262,
+      "sha256": "4527fb113723663953f31ef368c28038c5724c69157390abb59e39ab0846dfff",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 696,
+      "height": 1080,
+      "title": "GutenX-v5-hero3",
+      "alt_text": "نمایش رسمی Blocksy — hero3",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2022/06/home-hero-demo-4.jpg"
+    },
+    "header": {
+      "id": 23850,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-header-builder.webp",
+      "bytes": 111528,
+      "sha256": "dd0d38274cb994b61bde61697d901dcc86b26946fc115455290b1444dbf6014b",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 1800,
+      "height": 1090,
+      "title": "GutenX-v5-header-builder",
+      "alt_text": "نمایش رسمی هدرساز دیداری Blocksy با چند چیدمان سربرگ",
+      "caption": "",
+      "description": "Source: https://creativethemes.com/blocksy/wp-content/uploads/2021/06/header-scene.png"
+    },
+    "mega": {
+      "id": 23854,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-mega.webp",
+      "bytes": 95168,
+      "sha256": "e21d34c1c506923750dc6bb772a4556ce308fa89f8825c797eead32980b0ff46",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 1760,
+      "height": 1080,
+      "title": "GutenX-v5-mega",
+      "alt_text": "نمایش رسمی Blocksy — mega",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2021/06/advanced-menu.jpg"
+    },
+    "hooks": {
+      "id": 23855,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-hooks.webp",
+      "bytes": 99774,
+      "sha256": "6525c7789b7dbd239f6f42fc70f133efcdccb7890850cf83fe153a32929fa6af",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 1260,
+      "height": 1220,
+      "title": "GutenX-v5-hooks",
+      "alt_text": "نمایش رسمی امکانات Blocksy — hooks",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2021/06/hooks-single.jpg"
+    },
+    "cart-hook": {
+      "id": 23856,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-cart-hook.webp",
+      "bytes": 32204,
+      "sha256": "7c47329c6723d9b762194787160b58d53f89b86f84c8525c3c3e76dd8c7012cb",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 1260,
+      "height": 950,
+      "title": "GutenX-v5-cart-hook",
+      "alt_text": "نمایش رسمی امکانات Blocksy — cart-hook",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2021/06/hooks-cart.jpg"
+    },
+    "fonts": {
+      "id": 23864,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-fonts.webp",
+      "bytes": 18688,
+      "sha256": "ee638d6ad9aa3aef051c10fee305b073e4a81f92651810b3545ab2844f5bedbb",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 566,
+      "height": 860,
+      "title": "GutenX-v5-fonts",
+      "alt_text": "نمایش رسمی امکانات Blocksy — fonts",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2021/06/fonts-2.jpg"
+    },
+    "customizer": {
+      "id": 23857,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-customizer.webp",
+      "bytes": 88292,
+      "sha256": "08847b2b6637c7aa969f5bdc0553ac7c3a2f9352a04e232a659758b65ee76b8f",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 1800,
+      "height": 1285,
+      "title": "GutenX-v5-customizer",
+      "alt_text": "نمایش رسمی امکانات Blocksy — customizer",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2021/06/macbook@2x.png"
+    },
+    "filters": {
+      "id": 23858,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-filters.webp",
+      "bytes": 28404,
+      "sha256": "5d015d2ae09a7a2c033d37b780333c77e11454f939656a1708043b18ba120e3e",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 1160,
+      "height": 724,
+      "title": "GutenX-v5-filters",
+      "alt_text": "نمایش رسمی امکانات Blocksy — filters",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2024/12/product-filters-image.jpg"
+    },
+    "swatches": {
+      "id": 23860,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-swatches.webp",
+      "bytes": 9068,
+      "sha256": "60222aa990a611f2211dfd1086059eb59dd83914ff182b60f4d478a42c71e758",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 440,
+      "height": 654,
+      "title": "GutenX-v5-swatches",
+      "alt_text": "نمایش رسمی امکانات Blocksy — swatches",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2024/12/swatches-image-1.jpg"
+    },
+    "wishlist": {
+      "id": 23865,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-wishlist.webp",
+      "bytes": 23782,
+      "sha256": "90e33f9be9ccd7d83ca23462f4ceba9830eeb9a10fea2e4bb565301b9dc0bd88",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 640,
+      "height": 680,
+      "title": "GutenX-v5-wishlist",
+      "alt_text": "نمایش رسمی امکانات Blocksy — wishlist",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2024/12/wishlist-image.jpg"
+    },
+    "quick": {
+      "id": 23859,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-quick.webp",
+      "bytes": 13590,
+      "sha256": "5b5eb96f5de63882e83be2792a043f3f899c2d15cf502ca4e01272e5dd6dc2f4",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 640,
+      "height": 420,
+      "title": "GutenX-v5-quick",
+      "alt_text": "نمایش رسمی امکانات Blocksy — quick",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2024/12/quick-view-image.jpg"
+    },
+    "reviews": {
+      "id": 23861,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-reviews.webp",
+      "bytes": 16152,
+      "sha256": "fbe052c44de65cc9e4b7067bfb451c20fd2ba802cbc312ed7034218bfa0682a5",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 548,
+      "height": 623,
+      "title": "GutenX-v5-reviews",
+      "alt_text": "نمایش رسمی امکانات Blocksy — reviews",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2024/12/advanced-reviews.jpg"
+    },
+    "mini-cart": {
+      "id": 23862,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-mini-cart.webp",
+      "bytes": 14616,
+      "sha256": "8e2a1475d1d3140eb15b075aad333b2a1a6d7f0cf6c13b64a206ea63b60a3514",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 426,
+      "height": 817,
+      "title": "GutenX-v5-mini-cart",
+      "alt_text": "نمایش رسمی امکانات Blocksy — mini-cart",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2025/04/offcanvas-mini-cart.jpg"
+    },
+    "mobile": {
+      "id": 23863,
+      "status": "inherit",
+      "mime_type": "image/webp",
+      "url": "https://ihmahmoodi.com/wp-content/uploads/2026/11/GutenX-v5-mobile.webp",
+      "bytes": 17006,
+      "sha256": "c600810f286bea18acc74332029f3bb8cddc6e6b2931010bb43ba932d0b42505",
+      "offloaded": false,
+      "cloud_offloader_active": false,
+      "width": 460,
+      "height": 872,
+      "title": "GutenX-v5-mobile",
+      "alt_text": "نمایش رسمی امکانات Blocksy — mobile",
+      "caption": "",
+      "description": "Official Blocksy visual. Source: https://creativethemes.com/blocksy/wp-content/uploads/2025/04/mobile-optimized-image-1.png"
+    }
+  }
+}
