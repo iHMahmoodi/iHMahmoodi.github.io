@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 820" width="1040" height="820" role="img" aria-labelledby="title desc">
+<title id="title">رنگ‌ها و پس‌زمینه‌ها در GutenX</title><desc id="desc">تصویرسازی مستقل از تنظیم رنگ، الگو و تصویر پس‌زمینه و کنترل‌های اندازه و تکرار</desc>
+<defs>
+ <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFDE83"/><stop offset=".55" stop-color="#FEBBA3"/><stop offset="1" stop-color="#F18B8F"/></linearGradient>
+ <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFB58D"/><stop offset="1" stop-color="#F06E82"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#33E3D9"/><stop offset="1" stop-color="#4B83F9"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E4B5FF"/><stop offset="1" stop-color="#6C4CE5"/></linearGradient>
+ <linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#133F46"/><stop offset=".56" stop-color="#357E85"/><stop offset="1" stop-color="#9CCDD2"/></linearGradient>
+ <linearGradient id="land" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#062E2A"/><stop offset="1" stop-color="#538679"/></linearGradient>
+ <linearGradient id="cream" x1="0" y1="0" x2="1" y2=".6"><stop stop-color="#FFF2C9"/><stop offset="1" stop-color="#FFF7E9"/></linearGradient>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="23"/></filter>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="220%"><feDropShadow dx="0" dy="16" stdDeviation="21" flood-color="#1A2B45" flood-opacity=".13"/></filter>
+ <clipPath id="oceanCrop"><rect x="456" y="231" width="264" height="139" rx="3"/></clipPath>
+</defs>
+<g opacity=".75"><circle cx="84" cy="87" r="54" fill="#AD63C6" filter="url(#glow)"/><circle cx="910" cy="557" r="51" fill="#2DCBB1" filter="url(#glow)"/><circle cx="155" cy="305" r="24" fill="#72B9F9" filter="url(#glow)"/></g>
+<path d="M341 189C375 85 470 60 537 113c54 43 56 78 137 110 99 41 132 117 124 190-7 87-92 152-204 150-76-1-93 57-167 77-70 18-156-5-189-71-42-83-78-86-74-183 4-99 77-151 177-197Z" fill="url(#cream)" opacity=".82"/>
+<circle cx="352" cy="266" r="120" fill="url(#warm)"/><circle cx="724" cy="361" r="67" fill="url(#coral)"/><circle cx="342" cy="542" r="70" fill="url(#cyan)"/><circle cx="745" cy="654" r="49" fill="url(#violet)" opacity=".92"/>
+<circle cx="875" cy="177" r="24" fill="url(#violet)"/><circle cx="175" cy="722" r="22" fill="#F86693"/>
+<g fill="#E2E7F0" opacity=".85">
+<circle cx="230" cy="657" r="5"/><circle cx="266" cy="657" r="5"/><circle cx="302" cy="657" r="5"/><circle cx="338" cy="657" r="5"/><circle cx="374" cy="657" r="5"/>
+<circle cx="230" cy="690" r="5"/><circle cx="266" cy="690" r="5"/><circle cx="302" cy="690" r="5"/><circle cx="338" cy="690" r="5"/><circle cx="374" cy="690" r="5"/>
+<circle cx="230" cy="723" r="5"/><circle cx="266" cy="723" r="5"/><circle cx="302" cy="723" r="5"/><circle cx="338" cy="723" r="5"/><circle cx="374" cy="723" r="5"/>
+<circle cx="230" cy="756" r="5"/><circle cx="266" cy="756" r="5"/><circle cx="302" cy="756" r="5"/><circle cx="338" cy="756" r="5"/><circle cx="374" cy="756" r="5"/>
+</g>
+<circle cx="282" cy="434" r="53" fill="#fff" stroke="#fff" stroke-width="7" filter="url(#shadow)"/>
+<circle cx="282" cy="434" r="46" fill="#51818B"/><path d="M246 465L316 396M253 466L323 400M261 467L330 408" stroke="#D9B59D" stroke-width="17" opacity=".68"/><path d="M260 393v85M281 395v84M300 397v79" stroke="#2B7775" stroke-width="5" opacity=".8"/>
+<circle cx="661" cy="177" r="43" fill="#fff" stroke="#fff" stroke-width="6" filter="url(#shadow)"/><circle cx="661" cy="177" r="38" fill="#306F70"/><path d="M632 151c19 26 19 33 0 55M649 146c20 29 22 40 4 64" stroke="#D9E4DD" stroke-width="10" opacity=".7"/>
+<g filter="url(#shadow)">
+<rect x="432" y="184" width="318" height="551" rx="12" fill="white"/>
+<rect x="432" y="184" width="318" height="49" rx="12" fill="#FFFFFF"/>
+<path d="M432 222h318" stroke="#E9ECF3" stroke-width="1.3"/>
+<path d="M538 184v49M644 184v49" stroke="#E9ECF3"/>
+<path d="M644 231h106" stroke="#2D72E8" stroke-width="3"/>
+<g font-family="Vazirmatn, YekanBakh, sans-serif" font-size="14" fill="#637185" text-anchor="middle"><text x="485" y="214">رنگ</text><text x="590" y="214">الگو</text><text x="697" y="214" font-weight="700" fill="#2A3B52">تصویر</text></g>
+<rect x="452" y="232" width="278" height="151" rx="5" fill="#F8FAFC" stroke="#E4E9F2" stroke-dasharray="3 4"/>
+<g clip-path="url(#oceanCrop)">
+<rect x="456" y="231" width="264" height="139" fill="url(#water)"/>
+<path d="M455 232L535 232Q549 261 518 290Q496 321 524 372H455Z" fill="url(#land)"/>
+<path d="M525 230Q564 270 537 305T549 373" fill="none" stroke="#E3ECDD" stroke-width="13" opacity=".84"/>
+<path d="M534 235Q556 273 532 308T544 370" fill="none" stroke="#BDE1E1" stroke-width="6" opacity=".75"/>
+<circle cx="636" cy="279" r="13" fill="none" stroke="#E8F5F1" stroke-width="5"/>
+</g>
+<rect x="452" y="396" width="132" height="32" rx="5" fill="#FBFCFE" stroke="#D7DDE8"/>
+<rect x="594" y="396" width="136" height="32" rx="5" fill="#FBFCFE" stroke="#D7DDE8"/>
+<g font-family="Vazirmatn, YekanBakh, sans-serif" font-size="11" fill="#647185" text-anchor="middle"><text x="518" y="417">حذف تصویر</text><text x="662" y="417">تغییر تصویر</text></g>
+<path d="M432 450h318" stroke="#ECF0F5"/>
+<g font-family="Vazirmatn, YekanBakh, sans-serif" font-size="13" fill="#4C5E73" text-anchor="end">
+<text x="726" y="479">تکرار پس‌زمینه</text>
+<text x="726" y="573">اندازه پس‌زمینه</text>
+<text x="726" y="672">چسبندگی پس‌زمینه</text>
+</g>
+<g font-family="Vazirmatn, YekanBakh, sans-serif" font-size="12" text-anchor="middle">
+<rect x="453" y="499" width="277" height="35" rx="5" fill="#F7F8FA" stroke="#E4E9F0"/>
+<rect x="653" y="499" width="77" height="35" rx="4" fill="#2F76EC"/>
+<path d="M544 499v35M618 499v35M653 499v35" stroke="#E0E5EC"/>
+<g fill="#627286"><text x="497" y="522">شبکه‌ای</text><text x="581" y="522">عمودی</text><text x="635" y="522">افقی</text></g><text x="691" y="522" fill="white">بدون تکرار</text>
+<path d="M432 549h318" stroke="#ECF0F5"/>
+<rect x="453" y="590" width="277" height="35" rx="5" fill="#F7F8FA" stroke="#E4E9F0"/>
+<rect x="637" y="590" width="93" height="35" rx="4" fill="#2F76EC"/>
+<path d="M544 590v35M637 590v35" stroke="#E0E5EC"/>
+<text x="498" y="612" fill="#647185">Contain</text><text x="591" y="612" fill="#647185">Cover</text><text x="683" y="612" fill="white">خودکار</text>
+<path d="M432 646h318" stroke="#ECF0F5"/>
+<rect x="453" y="688" width="277" height="35" rx="5" fill="#F7F8FA" stroke="#E4E9F0"/>
+<rect x="638" y="688" width="92" height="35" rx="4" fill="#2F76EC"/>
+<path d="M544 688v35M638 688v35" stroke="#E0E5EC"/>
+<text x="499" y="710" fill="#647185">موروثی</text><text x="592" y="710" fill="#647185">ثابت</text><text x="686" y="710" fill="white">اسکرول</text>
+</g>
+</g>
+</svg>
